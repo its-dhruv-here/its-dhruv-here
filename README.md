@@ -2,7 +2,7 @@
 🚀 **Aspiring Web Developer | Tech Enthusiast**  
 
 #### 🔧 Technologies & Tools  
-- **Frontend:** HTML, CSS  
+- **Frontend:** HTML, CSS, JS
 - **Other Tools:** Git, GitHub  
 
 #### 🌱 Learning Journey  
