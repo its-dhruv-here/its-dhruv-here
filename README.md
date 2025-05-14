@@ -6,7 +6,7 @@
 - **Other Tools:** Git, GitHub  
 
 #### 🌱 Learning Journey  
-Currently focused on expanding my web development skills and exploring new design techniques. I’m learning from the **Web Dev Cohort by Hitesh Choudhary and Piyush**, and sharing my progress publicly.
+Currently focused on expanding my web development skills and exploring new design techniques.
 
 #### ✨ Fun Fact  
 I’m always curious and believe that continuous learning is the key to staying ahead in tech.  
