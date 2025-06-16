@@ -17,12 +17,12 @@
 
 <h3 align="center">Connect with me</h3>
 <p align="center">
-  <a href="https://twitter.com/its_dhruv_here_" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter" width="40" height="40"/>
+  <a href="https://twitter.com/its_dhruv_here_" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter" width="36" height="36" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/dhruv-mittal-38957830a/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+  <a href="https://www.linkedin.com/in/dhruv-mittal-38957830a/" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="36" height="36" />
   </a>
 </p>
 
@@ -30,9 +30,7 @@
 
 <h3 align="center">🏆 GitHub Trophies</h3>
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank" rel="noreferrer">
-    <img src="https://github-profile-trophy.vercel.app/?username=its-dhruv-here&theme=algolia" alt="GitHub Trophy" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=its-dhruv-here&theme=algolia" alt="GitHub Trophy" />
 </p>
 
 ---
