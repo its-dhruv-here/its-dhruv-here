@@ -18,11 +18,11 @@
 <h3 align="center">Connect with me</h3>
 <p align="center">
   <a href="https://twitter.com/its_dhruv_here_" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn-icons-png.flaticon.com/512/3670/3670151.png" alt="X (Twitter)" width="36" height="36" />
+    <img src="https://pngdownload.io/wp-content/uploads/2023/07/X-logo-twitter.png" alt="Twitter Logo" width="36" height="36" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/dhruv-mittal-38957830a/" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="36" height="36" />
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn Logo" width="36" height="36" />
   </a>
 </p>
 
@@ -30,7 +30,9 @@
 
 <h3 align="center">🏆 GitHub Trophies</h3>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=its-dhruv-here&theme=algolia" alt="GitHub Trophy" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank" rel="noopener noreferrer">
+    <img src="https://github-profile-trophy.vercel.app/?username=its-dhruv-here&theme=algolia" alt="GitHub Trophy" />
+  </a>
 </p>
 
 ---
@@ -58,7 +60,7 @@
 
 <h3 align="center">☕ Support Me</h3>
 <p align="center">
-  <a href="https://buymeacoffee.com/its_dhruv_here" target="_blank" rel="noreferrer">
+  <a href="https://buymeacoffee.com/its_dhruv_here" target="_blank" rel="noopener noreferrer">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" />
   </a>
 </p>
