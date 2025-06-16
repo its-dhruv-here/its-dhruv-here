@@ -18,7 +18,7 @@
 <h3 align="center">Connect with me</h3>
 <p align="center">
   <a href="https://twitter.com/its_dhruv_here_" target="_blank" rel="noreferrer">
-    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968958.png" alt="X Logo" height="40" width="40" />
+    <img src="https://cdn-icons-png.flaticon.com/512/5969/5969020.png" alt="X Logo" height="40" width="40" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/dhruv-mittal-38957830a/" target="_blank" rel="noreferrer">
