@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 🔭 Currently exploring JavaScript & Backend Development<br>🌱 Learning something new every day<br>💬 Ask me about HTML, CSS, Git, or Life as a CS Student<br>⚡ Fun fact: My gym consistency exists only in my imagination.
 
 
